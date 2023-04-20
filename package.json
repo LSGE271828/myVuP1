@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  },
+  "name": "VU",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vutex/vuepress-plugin-math": "C:\\Users\\izEro\\Desktop\\vup\\VuTeX-master\\packages\\vutex.github.io\\node_modules\\@vutex\\vuepress-plugin-math",
+    "@vutex/vuepress-theme-vutex": "D:\\demo\\oomm_vuepres\\packages\\vutex.github.io\\node_modules\\@vutex\\vuepress-theme-vutex"
+  }
+}
